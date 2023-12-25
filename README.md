@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### 🌱 I’m currently learning how to use GitHub, so please bear with me!
+
 <!--
 **krusagl/krusagl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
